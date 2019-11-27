@@ -49,3 +49,4 @@ steps:
     arguments: '--no-restore --configuration Release'
     projects: '**/*.csproj'
 
+    
